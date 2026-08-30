@@ -1,1 +1,1 @@
-# Open-CV
+#This repository is a collection of my **Computer Vision journey**, featuring OpenCV fundamentals, image processing techniques, Python implementations, object detection, feature extraction, hands-on experiments, and #practical computer vision projects.
